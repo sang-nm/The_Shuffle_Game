@@ -1,0 +1,9 @@
+e:\documents\visual studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\bin\Debug\The_Shuffle_Game.exe.config
+E:\Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\bin\Debug\The_Shuffle_Game.exe
+E:\Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\bin\Debug\The_Shuffle_Game.pdb
+E:\Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\obj\Debug\The_Shuffle_Game.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\obj\Debug\The_Shuffle_Game.exe
+E:\Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\obj\Debug\The_Shuffle_Game.pdb
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\bin\Debug\The_Shuffle_Game.exe.config
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\obj\Debug\The_Shuffle_Game.exe
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\The_Shuffle_Game\The_Shuffle_Game\obj\Debug\The_Shuffle_Game.pdb
